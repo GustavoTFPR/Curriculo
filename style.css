@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a5a5a5;
+    padding: 20px;
+    margin: 0;
+}
+
+h1 {
+    color: #ffd900;
+    padding: 10px 0;
+    margin: 0;
+}
+
+h2 {
+    color: #ffd900;
+    margin-top: 20px;
+}
+
+p {
+    color: #333;
+    line-height: 1.2;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.Empresas {
+    color: #ffd900;
+    
+}
+
+a {
+    background-color: #c4c4c4;
+    color: rgb(0, 68, 255);
+    padding: 10px 20px;
+    border-radius: 5px
+}
